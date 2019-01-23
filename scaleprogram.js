@@ -1,4 +1,5 @@
 
+<script>
 function specialinputconvertamount() {
 document.getElementById("inputscalevalue").type = "textbox";
 
@@ -65,4 +66,4 @@ window.onclick = function(event) {
     }
   }
 }
-
+</script>
